@@ -1,4 +1,4 @@
-#ML Spam Email Classifier
+# ML Spam Email Classifier
 A simple Machine Learning project that classifies as **Spam** or **Ham** TF-IDF (Term Frequency - Iverse Document Frequency) and a Naive Bayes model, with a STreamlit web app for easy testing.
 ---
 ## How it works
